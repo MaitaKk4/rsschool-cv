@@ -50,5 +50,5 @@ orderMyLogic(7);
 
 # Languages:
 * Russian
-* Franch(Basic)
+* French(Basic)
 * English(pre-intermadiat)
